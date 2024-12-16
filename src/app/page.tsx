@@ -67,8 +67,6 @@ const Rank = () => {
             <option value="VIEWNG_NMPR_CO">관객 수</option>
             <option value="SALES_PRICE">매출</option>
             <option value="TOT_SCRN_CO">스크린 수</option>
-            <option value="SEOUL_SALES_PRICE">서울 매출</option>
-            <option value="SEOUL_VIEWNG_NMPR_CO">서울 관객 수</option>
           </Select>
         </SelectContainer>
         <CardList>

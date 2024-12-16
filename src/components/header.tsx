@@ -10,12 +10,12 @@ const Header = () => {
             <Nav>
                 <NavItem>
                     <Link href="/" passHref>
-                        <NavLink>Home</NavLink>
+                        <NavLink><b>메인으로</b></NavLink>
                     </Link>
                 </NavItem>
                 <NavItem>
                     <Link href="/list" passHref>
-                        <NavLink>List</NavLink>
+                        <NavLink><b>리스트</b></NavLink>
                     </Link>
                 </NavItem>
             </Nav>
